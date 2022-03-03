@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erwinnurhaq
+👋 Hi, I’m @erwinnurhaq
 
 <!---
 erwinnurhaq/erwinnurhaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
